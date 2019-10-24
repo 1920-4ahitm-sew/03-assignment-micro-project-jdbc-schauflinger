@@ -22,6 +22,9 @@ public class Flug {
         this.ankunft = ankunft;
     }
 
+    public Flug() {
+    }
+
     public Long getId() {
         return id;
     }
